@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(136, 187, 255);
+}
+h1 {
+    color: mistyrose;
+}
+p {
+    color: black;
+}
+h2 {
+    color: deeppink;
+}
+li {
+    list-style-type: none;
+  }
+  #centerwrap { 
+    position: absolute;
+   top: 50px;
+   left: 50%;
+   margin-left: -200px; 
+   }  
